@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>portfolio</title>
+    <link href="https://malachi468.github.io/portfolio/feed.xml" rel="self" />
+    <link href="https://malachi468.github.io/portfolio" />
+    <updated>2024-10-15T09:34:49+02:00</updated>
+    <author>
+        <name>Malachi Wolmarans</name>
+    </author>
+    <id>https://malachi468.github.io/portfolio</id>
+
+    <entry>
+        <title>some of the work i have done this year</title>
+        <author>
+            <name>Malachi Wolmarans</name>
+        </author>
+        <link href="https://malachi468.github.io/portfolio/some-of-the-work-i-have-done-this-year.html"/>
+        <id>https://malachi468.github.io/portfolio/some-of-the-work-i-have-done-this-year.html</id>
+
+        <updated>2024-10-15T09:34:49+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>I also made sheets presentation on the weather</title>
+        <author>
+            <name>Malachi Wolmarans</name>
+        </author>
+        <link href="https://malachi468.github.io/portfolio/i-also-made-sheets-presentation-on-the-weather.html"/>
+        <id>https://malachi468.github.io/portfolio/i-also-made-sheets-presentation-on-the-weather.html</id>
+
+        <updated>2024-10-15T09:33:27+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://malachi468.github.io/portfolio/media/posts/7/gallery/Screenshot-2024-10-15-093232.png" data-size="548x353"><img loading="lazy" src="https://malachi468.github.io/portfolio/media/posts/7/gallery/Screenshot-2024-10-15-093232-thumbnail.png" alt="" width="548" height="353"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Here is a shopping list I made </title>
+        <author>
+            <name>Malachi Wolmarans</name>
+        </author>
+        <link href="https://malachi468.github.io/portfolio/here-is-a-shopping-list-i-made.html"/>
+        <id>https://malachi468.github.io/portfolio/here-is-a-shopping-list-i-made.html</id>
+
+        <updated>2024-10-15T09:31:15+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://malachi468.github.io/portfolio/media/posts/6/gallery/Screenshot-2024-10-15-093035.png" data-size="481x240"><img loading="lazy" src="https://malachi468.github.io/portfolio/media/posts/6/gallery/Screenshot-2024-10-15-093035-thumbnail.png" alt="" width="481" height="240"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>i have also had to do tables and graphs</title>
+        <author>
+            <name>Malachi Wolmarans</name>
+        </author>
+        <link href="https://malachi468.github.io/portfolio/i-have-also-had-to-do-tables-and-graphs.html"/>
+        <id>https://malachi468.github.io/portfolio/i-have-also-had-to-do-tables-and-graphs.html</id>
+
+        <updated>2024-10-15T09:29:22+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://malachi468.github.io/portfolio/media/posts/5/gallery/Screenshot-2024-10-15-092839.png" data-size="646x451"><img loading="lazy" src="https://malachi468.github.io/portfolio/media/posts/5/gallery/Screenshot-2024-10-15-092839-thumbnail.png" alt="" width="646" height="451"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I have done charts here is an example</title>
+        <author>
+            <name>Malachi Wolmarans</name>
+        </author>
+        <link href="https://malachi468.github.io/portfolio/i-have-done-charts-here-is-an-example.html"/>
+        <id>https://malachi468.github.io/portfolio/i-have-done-charts-here-is-an-example.html</id>
+
+        <updated>2024-10-15T09:26:57+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://malachi468.github.io/portfolio/media/posts/4/gallery/Screenshot-2024-10-15-092427.png" data-size="297x237"><img loading="lazy" src="https://malachi468.github.io/portfolio/media/posts/4/gallery/Screenshot-2024-10-15-092427-thumbnail.png" alt="" width="297" height="237"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This year i have used a lot of code here is an example</title>
+        <author>
+            <name>Malachi Wolmarans</name>
+        </author>
+        <link href="https://malachi468.github.io/portfolio/this-year-i-have-used-a-lot-of-code-here-is-an-example.html"/>
+        <id>https://malachi468.github.io/portfolio/this-year-i-have-used-a-lot-of-code-here-is-an-example.html</id>
+
+        <updated>2024-10-15T09:20:59+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://malachi468.github.io/portfolio/media/posts/3/gallery/Screenshot-2024-10-15-091959.png" data-size="588x462"><img loading="lazy" src="https://malachi468.github.io/portfolio/media/posts/3/gallery/Screenshot-2024-10-15-091959-thumbnail.png" alt="" width="588" height="462"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I made a invitation for a birthday party and the theme was playboi carti</title>
+        <author>
+            <name>Malachi Wolmarans</name>
+        </author>
+        <link href="https://malachi468.github.io/portfolio/i-made-a-invitation-for-a-birthday-party-and-the-theme-was-playboi-carti.html"/>
+        <id>https://malachi468.github.io/portfolio/i-made-a-invitation-for-a-birthday-party-and-the-theme-was-playboi-carti.html</id>
+
+        <updated>2024-10-15T09:20:11+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="8">
+<figure class="gallery__item"><a href="https://malachi468.github.io/portfolio/media/posts/2/gallery/Screenshot-2024-10-15-091206-3.png" data-size="668x822"><img loading="lazy" src="https://malachi468.github.io/portfolio/media/posts/2/gallery/Screenshot-2024-10-15-091206-3-thumbnail.png" alt="" width="668" height="822"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I did a power point presentation on how to be safe online (sorry for spelling online wrong)</title>
+        <author>
+            <name>Malachi Wolmarans</name>
+        </author>
+        <link href="https://malachi468.github.io/portfolio/i-did-a-power-point-presentation-on-how-to-be-safe-online-sorry-for-spelling-online-wrong.html"/>
+        <id>https://malachi468.github.io/portfolio/i-did-a-power-point-presentation-on-how-to-be-safe-online-sorry-for-spelling-online-wrong.html</id>
+
+        <updated>2024-10-15T09:10:10+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://malachi468.github.io/portfolio/media/posts/1/gallery/Screenshot-2024-10-15-090734.png" data-size="774x432"><img loading="lazy" src="https://malachi468.github.io/portfolio/media/posts/1/gallery/Screenshot-2024-10-15-090734-thumbnail.png" alt="" width="720" height="402"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,116 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "portfolio",
+    "description": "",
+    "home_page_url": "https://malachi468.github.io/portfolio",
+    "feed_url": "https://malachi468.github.io/portfolio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Malachi Wolmarans"
+    },
+    "items": [
+        {
+            "id": "https://malachi468.github.io/portfolio/some-of-the-work-i-have-done-this-year.html",
+            "url": "https://malachi468.github.io/portfolio/some-of-the-work-i-have-done-this-year.html",
+            "title": "some of the work i have done this year",
+            "author": {
+                "name": "Malachi Wolmarans"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-15T09:34:49+02:00",
+            "date_modified": "2024-10-15T09:34:49+02:00"
+        },
+        {
+            "id": "https://malachi468.github.io/portfolio/i-also-made-sheets-presentation-on-the-weather.html",
+            "url": "https://malachi468.github.io/portfolio/i-also-made-sheets-presentation-on-the-weather.html",
+            "title": "I also made sheets presentation on the weather",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://malachi468.github.io/portfolio/media/posts/7/gallery/Screenshot-2024-10-15-093232.png\" data-size=\"548x353\"><img loading=\"lazy\" src=\"https://malachi468.github.io/portfolio/media/posts/7/gallery/Screenshot-2024-10-15-093232-thumbnail.png\" alt=\"\" width=\"548\" height=\"353\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Malachi Wolmarans"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-15T09:33:27+02:00",
+            "date_modified": "2024-10-15T09:33:27+02:00"
+        },
+        {
+            "id": "https://malachi468.github.io/portfolio/here-is-a-shopping-list-i-made.html",
+            "url": "https://malachi468.github.io/portfolio/here-is-a-shopping-list-i-made.html",
+            "title": "Here is a shopping list I made ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://malachi468.github.io/portfolio/media/posts/6/gallery/Screenshot-2024-10-15-093035.png\" data-size=\"481x240\"><img loading=\"lazy\" src=\"https://malachi468.github.io/portfolio/media/posts/6/gallery/Screenshot-2024-10-15-093035-thumbnail.png\" alt=\"\" width=\"481\" height=\"240\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Malachi Wolmarans"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-15T09:31:15+02:00",
+            "date_modified": "2024-10-15T09:31:15+02:00"
+        },
+        {
+            "id": "https://malachi468.github.io/portfolio/i-have-also-had-to-do-tables-and-graphs.html",
+            "url": "https://malachi468.github.io/portfolio/i-have-also-had-to-do-tables-and-graphs.html",
+            "title": "i have also had to do tables and graphs",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://malachi468.github.io/portfolio/media/posts/5/gallery/Screenshot-2024-10-15-092839.png\" data-size=\"646x451\"><img loading=\"lazy\" src=\"https://malachi468.github.io/portfolio/media/posts/5/gallery/Screenshot-2024-10-15-092839-thumbnail.png\" alt=\"\" width=\"646\" height=\"451\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Malachi Wolmarans"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-15T09:29:22+02:00",
+            "date_modified": "2024-10-15T09:29:22+02:00"
+        },
+        {
+            "id": "https://malachi468.github.io/portfolio/i-have-done-charts-here-is-an-example.html",
+            "url": "https://malachi468.github.io/portfolio/i-have-done-charts-here-is-an-example.html",
+            "title": "I have done charts here is an example",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://malachi468.github.io/portfolio/media/posts/4/gallery/Screenshot-2024-10-15-092427.png\" data-size=\"297x237\"><img loading=\"lazy\" src=\"https://malachi468.github.io/portfolio/media/posts/4/gallery/Screenshot-2024-10-15-092427-thumbnail.png\" alt=\"\" width=\"297\" height=\"237\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Malachi Wolmarans"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-15T09:26:57+02:00",
+            "date_modified": "2024-10-15T09:26:57+02:00"
+        },
+        {
+            "id": "https://malachi468.github.io/portfolio/this-year-i-have-used-a-lot-of-code-here-is-an-example.html",
+            "url": "https://malachi468.github.io/portfolio/this-year-i-have-used-a-lot-of-code-here-is-an-example.html",
+            "title": "This year i have used a lot of code here is an example",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://malachi468.github.io/portfolio/media/posts/3/gallery/Screenshot-2024-10-15-091959.png\" data-size=\"588x462\"><img loading=\"lazy\" src=\"https://malachi468.github.io/portfolio/media/posts/3/gallery/Screenshot-2024-10-15-091959-thumbnail.png\" alt=\"\" width=\"588\" height=\"462\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Malachi Wolmarans"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-15T09:20:59+02:00",
+            "date_modified": "2024-10-15T09:20:59+02:00"
+        },
+        {
+            "id": "https://malachi468.github.io/portfolio/i-made-a-invitation-for-a-birthday-party-and-the-theme-was-playboi-carti.html",
+            "url": "https://malachi468.github.io/portfolio/i-made-a-invitation-for-a-birthday-party-and-the-theme-was-playboi-carti.html",
+            "title": "I made a invitation for a birthday party and the theme was playboi carti",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"8\">\n<figure class=\"gallery__item\"><a href=\"https://malachi468.github.io/portfolio/media/posts/2/gallery/Screenshot-2024-10-15-091206-3.png\" data-size=\"668x822\"><img loading=\"lazy\" src=\"https://malachi468.github.io/portfolio/media/posts/2/gallery/Screenshot-2024-10-15-091206-3-thumbnail.png\" alt=\"\" width=\"668\" height=\"822\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Malachi Wolmarans"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-15T09:20:11+02:00",
+            "date_modified": "2024-10-15T09:20:11+02:00"
+        },
+        {
+            "id": "https://malachi468.github.io/portfolio/i-did-a-power-point-presentation-on-how-to-be-safe-online-sorry-for-spelling-online-wrong.html",
+            "url": "https://malachi468.github.io/portfolio/i-did-a-power-point-presentation-on-how-to-be-safe-online-sorry-for-spelling-online-wrong.html",
+            "title": "I did a power point presentation on how to be safe online (sorry for spelling online wrong)",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://malachi468.github.io/portfolio/media/posts/1/gallery/Screenshot-2024-10-15-090734.png\" data-size=\"774x432\"><img loading=\"lazy\" src=\"https://malachi468.github.io/portfolio/media/posts/1/gallery/Screenshot-2024-10-15-090734-thumbnail.png\" alt=\"\" width=\"720\" height=\"402\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Malachi Wolmarans"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-15T09:10:10+02:00",
+            "date_modified": "2024-10-15T09:10:10+02:00"
+        }
+    ]
+}
